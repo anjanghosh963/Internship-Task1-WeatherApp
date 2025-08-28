@@ -1,8 +1,6 @@
 # 🌤️ Weather Dashboard - Internship Task 1
 A responsive weather dashboard built with HTML, CSS, and vanilla JavaScript. This project was completed as the first task for the Full Stack Web Development internship at CodTech IT Solutions.
 
-Live Demo: https://your-username.github.io/Internship-Task1-WeatherApp/
-(To make this link work, follow the GitHub Pages instructions in the next message!)
 
 ✨ Features
 City Search: Get real-time weather data for any city.
@@ -30,10 +28,6 @@ Browser Geolocation API
 
 🚀 How to Run Locally
 No complex setup is required. To run this project on your local machine:
-
-Clone the repository:
-
-git clone https://github.com/your-username/Internship-Task1-WeatherApp.git
 
 Navigate to the project directory:
 
