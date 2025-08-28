@@ -36,7 +36,6 @@ cd Internship-Task1-WeatherApp/Task1
 Open the index.html file in your favorite web browser.
 
 📸 Project Screenshot
-It's highly recommended to add a screenshot of your finished project here. You can do this by dragging and dropping an image directly into the README file editor on GitHub.
 
 <img width="1920" height="1080" alt="Dashboard 1" src="https://github.com/user-attachments/assets/952efbd0-9ea0-45e3-9238-b76890036460" />
 <img width="1920" height="1080" alt="Dashboard 2" src="https://github.com/user-attachments/assets/5b165969-c47c-4082-97d1-2d975682edb6" />
