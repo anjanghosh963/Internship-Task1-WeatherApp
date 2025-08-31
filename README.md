@@ -2,7 +2,7 @@
 A responsive weather dashboard built with HTML, CSS, and vanilla JavaScript. This project was completed as the first task for the Full Stack Web Development internship at CodTech IT Solutions.
 
 
-✨ Features
+## ✨ Features
 City Search: Get real-time weather data for any city.
 
 Geolocation: Instantly fetch weather for your current location with a single click.
@@ -13,14 +13,14 @@ Current Weather Details: Displays key metrics like temperature, humidity, wind s
 
 Responsive Design: A clean, modern UI that works perfectly on both desktop and mobile devices.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 HTML5: For the structure and content of the web page.
 
 CSS3: For all styling, including gradients and a flexible grid layout.
 
 Vanilla JavaScript: For API integration, DOM manipulation, and all interactivity.
 
-APIs Used:
+## APIs Used:
 
 OpenWeatherMap API (simulated with mock data in this version)
 
@@ -34,6 +34,8 @@ Navigate to the project directory:
 cd Internship-Task1-WeatherApp/Task1
 
 Open the index.html file in your favorite web browser.
+
+I've attached the Task One files as a RAR archive. You'll just need to extract it to begin.
 
 📸 Project Screenshot
 
