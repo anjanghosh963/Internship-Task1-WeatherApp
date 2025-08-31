@@ -35,7 +35,7 @@ cd Internship-Task1-WeatherApp/Task1
 
 Open the index.html file in your favorite web browser.
 
-# I've attached the Task One files as a RAR archive. You'll just need to extract it to begin.
+# I've attached the Task 1 files as a RAR archive. You'll just need to extract it to begin.
 
 📸 Project Screenshot
 
