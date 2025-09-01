@@ -37,10 +37,12 @@ Open the index.html file in your favorite web browser.
 
 # I've attached the Task 1 files as a RAR archive. You'll just need to extract it to begin.
 
-## Linkedin post:- https://www.linkedin.com/posts/anjanghosh963_internship-webdevelopment-frontend-activity-7366507366206377984-9aRF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEiknjEB-QGuqv48T6vBmVagL9pwU-i1eAU
 
 # 📸 Project Screenshot
 
 <img width="1920" height="1080" alt="Dashboard 1" src="https://github.com/user-attachments/assets/952efbd0-9ea0-45e3-9238-b76890036460" />
 
 <img width="1920" height="1080" alt="Dashboard 2" src="https://github.com/user-attachments/assets/5b165969-c47c-4082-97d1-2d975682edb6" />
+
+## Linkedin post:- https://www.linkedin.com/posts/anjanghosh963_internship-webdevelopment-frontend-activity-7366507366206377984-9aRF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEiknjEB-QGuqv48T6vBmVagL9pwU-i1eAU
+
