@@ -35,7 +35,9 @@ cd Internship-Task1-WeatherApp/Task1
 
 Open the index.html file in your favorite web browser.
 
-# I've attached the Task 1 files in a RAR archive. You'll need to extract the archive to access the complete folder.
+# All the necessary source code for the extension is located in the **`Task1/`** directory in this repository.
+
+# Alternatively, I've attached the Task 4 files in a `Task1.rar` archive. You'll need to extract the archive to access the complete folder.
 
 
 # 📸 Project Screenshot
